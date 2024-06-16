@@ -1,2 +1,0 @@
-# SUHIRTHA-MP-
-Python 
